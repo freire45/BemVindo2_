@@ -2,7 +2,7 @@
 
 **Programa em Java que exibe boas vindas ao programador Java, versão 2**
 
-![Bem Vindo A Programação Em Java! - Versão 2](bemVindo2.png)
+![Bem Vindo A Programação Em Java! - Versão 2](bemvindo2.png)
 
 Autor: Erick Leite Freire<br>
 Criado em: 15-09-2023<br>
